@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DevOps and Offensive Security<br>👯 I’m looking to collaborate on anything security!<br>🌱 I’m currently learning how to write in Rust<br>💬 Ask me about RITSEC (https://ritsec.club)
+🔭 I’m currently working on [CBLE](https://github.com/cble-platform)<br>👯 I’m looking to collaborate on anything security!<br>🌱 Want to learn rust... one day<br>💬 Ask me about RITSEC (https://ritsec.club)
 
 
 ## 🌐 Socials:
@@ -12,14 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BradHacker&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BradHacker&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BradHacker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BradHacker&icon=5&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bradleyharker) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
